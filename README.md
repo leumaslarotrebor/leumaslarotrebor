@@ -53,7 +53,7 @@ My IEEE-published research (ICIPCN 2026) on IoT-enabled precision agriculture is
 
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leumaslarotrebor&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leumaslarotrebor&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leumaslarotrebor&layout=compact&theme=dark&hide_border=true&exclude_repo=leumaslarotrebor.github.io,novamark-digital,todo-fullstack-vintage-ui&hide=html)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=leumaslarotrebor&theme=dark&hide_border=true)
 
