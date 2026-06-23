@@ -96,7 +96,9 @@ Schema validation · null-check profiling · anomaly flagging · compliance-read
 
 <div align="center">
 
-**日本でのインターンシップに興味があります 🇯🇵**
-*Interested in engineering internships in Japan · Available from July 2026*
+![Samuel Oral Robert V](pixel_scene_small.gif)
+
+**B.E. Computer Science Engineering · Sathyabama Institute · Chennai · 2026**
+*Open to backend, IoT, and AI engineering opportunities*
 
 </div>
