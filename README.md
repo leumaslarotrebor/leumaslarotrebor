@@ -1,75 +1,111 @@
+<div align="center">
+
 # Samuel Oral Robert V
 
-**IoT & AI Systems Engineer · Backend · Embedded · SRE**
-B.E. Computer Science — Sathyabama Institute of Science and Technology, Chennai (2026)
+**IoT & AI Systems Engineer · Backend · Embedded · Precision Agriculture**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-leumaslarotrebor.github.io-teal?style=flat-square)](https://leumaslarotrebor.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/samuel-oral-robert-v-4226813a4/)
-[![IEEE](https://img.shields.io/badge/IEEE-ICIPCN%202026-blue?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/11438485)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-leumaslarotrebor.github.io-0a2040?style=for-the-badge&logo=github&logoColor=white)](https://leumaslarotrebor.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-oral-robert-v-4226813a4/)
+[![IEEE](https://img.shields.io/badge/IEEE-Published_ICIPCN_2026-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11438485)
+
+</div>
 
 ---
 
 ## About
 
-I build systems that work in the real world — from ESP32 firmware running on farm robots to Linux auto-remediation agents and RAG-based document intelligence pipelines. My work spans embedded systems, backend engineering, DevOps, and agentic AI.
+I build systems that work in the real world.
 
-My IEEE-published research (ICIPCN 2026) on IoT-enabled precision agriculture is the foundation of SmartFarmX — a low-cost field robot that monitors soil moisture in real time with zero internet dependency.
+From ESP32 firmware running autonomously in crop fields, to Linux auto-remediation agents that detect and fix failures without human intervention, to RAG pipelines that make documents queryable — my work is about systems that are reliable, deployable, and solve real problems.
 
----
-
-## Featured Projects
-
-| Project | What it does | Stack | Badges |
-|---|---|---|---|
-| [SmartFarmX](https://github.com/leumaslarotrebor/smartfarmx) | IEEE-published IoT agriculture robot — real-time soil monitoring, SoftAP web control | ESP32, C++, Arduino | ![IEEE](https://img.shields.io/badge/IEEE-Published-blue?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square) |
-| [InfraWatch](https://github.com/leumaslarotrebor/infrawatch) | Linux health monitor with auto-remediation — detects and fixes system issues automatically | Prometheus, Grafana, Ansible, Docker | ![DevOps](https://img.shields.io/badge/DevOps-SRE-orange?style=flat-square) |
-| [DocuMind](https://github.com/leumaslarotrebor/documind) | RAG-based document intelligence — upload docs, ask questions, get cited answers | FastAPI, LangChain, FAISS, Python | ![AI](https://img.shields.io/badge/AI-RAG%20Pipeline-purple?style=flat-square) |
-| [SamLang](https://github.com/leumaslarotrebor/samlang) | Custom programming language — lexer, recursive-descent parser, AST, interpreter | Python | ![Lang](https://img.shields.io/badge/Compiler-From%20Scratch-red?style=flat-square) |
-| [Data Audit Pipeline](https://github.com/leumaslarotrebor/data-audit-pipeline) | Automated schema validation and anomaly detection for data pipelines | FastAPI, PostgreSQL, Python | ![Data](https://img.shields.io/badge/Data-Engineering-yellow?style=flat-square) |
+My IEEE-published research on IoT precision agriculture (ICIPCN 2026) is the clearest example of how I work: identify a real problem, build a complete system end-to-end, validate it in the field, and publish the results.
 
 ---
 
-## Tech Stack
+## Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-Embedded-darkgreen?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+### SmartFarmX — IEEE Published Precision Agriculture System
+> ESP32 · C++ · Python · TensorFlow · OpenCV · Arduino
+
+Two-component IoT system for precision agriculture. A drone handles aerial crop spraying and disease detection (90.3% accuracy). A ground rover monitors soil moisture in real time with zero internet dependency — it broadcasts its own WiFi so a farmer can connect directly from a phone browser in the middle of a field.
+
+**Published at IEEE ICIPCN 2026** → [Paper](https://ieeexplore.ieee.org/document/11438485) · [Code](https://github.com/leumaslarotrebor/smartfarmx)
 
 ---
 
-## GitHub Stats
+### SamLang — Custom Programming Language
+> Python · Compiler Design · Lexer · Parser · AST · Interpreter
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leumaslarotrebor&show_icons=true&theme=dark&hide_border=true&count_private=true)
+Built a fully functional programming language from scratch. Handwritten lexer, recursive-descent parser, AST node system, and tree-walking interpreter with lexical scoping and recursion. Supports variables, arithmetic, conditionals, while loops, and user-defined functions.
+fun factorial(n) {
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leumaslarotrebor&layout=compact&theme=dark&hide_border=true&exclude_repo=leumaslarotrebor.github.io,novamark-digital,todo-fullstack-vintage-ui&hide=html)
+if n <= 1 { return 1 }
 
-![GitHub Streak](https://streak-stats.demolab.com?user=leumaslarotrebor&theme=dark&hide_border=true)
+return n * factorial(n - 1)
+
+}
+
+print factorial(6)   # → 720
+
+[Code](https://github.com/leumaslarotrebor/samlang)
+
+---
+
+### InfraWatch — Linux Health Monitor & Auto-Remediation
+> Python · Bash · Docker · Ansible · Prometheus · Grafana · GitHub Actions
+
+Real-time Linux health monitoring agent that reads `/proc/stat` and `/proc/meminfo`, detects downed services, triggers `systemctl restart`, verifies recovery, and writes structured incident logs. Exposes Prometheus-compatible `/metrics` and `/health` endpoints. Full stack provisioned via Ansible. CI pipeline runs shellcheck, flake8, ansible-lint on every push.
+
+[Code](https://github.com/leumaslarotrebor/infrawatch)
+
+---
+
+### DocuMind — RAG Document Intelligence
+> Python · FastAPI · FAISS · sentence-transformers · Docker
+
+Upload a PDF, ask questions in natural language, get context-aware answers using semantic search and sentence embeddings. No keyword matching — the system finds contextually relevant passages using FAISS vector search and all-MiniLM-L6-v2 embeddings.
+
+[Code](https://github.com/leumaslarotrebor/documind)
+
+---
+
+### Data Audit Pipeline
+> Python · FastAPI · PostgreSQL · pandas
+
+Automated data quality audit system — schema validation, null-check profiling, anomaly flagging, and audit trail generation across CSV and database sources. Exposes structured JSON reports via FastAPI endpoints with compliance-ready logs.
+
+[Code](https://github.com/leumaslarotrebor/data-audit-pipeline)
+
+---
+
+## Stack
+Languages   Python · C/C++ · JavaScript · SQL · Bash
+
+Backend     FastAPI · Node.js · REST APIs
+
+DevOps      Docker · Prometheus · Grafana · Ansible · GitHub Actions
+
+AI/ML       FAISS · sentence-transformers · TensorFlow · OpenCV
+
+Embedded    ESP32 · Arduino · MQTT · SoftAP WiFi
+
+Databases   PostgreSQL · MongoDB · SQLite
 
 ---
 
 ## Publication
 
-**SmartFarmX: IoT-Enabled Precision Agriculture Using Drone Monitoring and Soil Sensing**
-IEEE ICIPCN 2026 · [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11438485)
-
-> 92% nutrient classification accuracy · 90.3% crop disease detection · Built for under ₹28,000
+**Smart FarmX: Multipurpose Drone for Next-Generation Crop Monitoring & Optimization System using IoT**
+Shagana S, Samuel Oral Robert V, Dr. Saranya S
+*IEEE ICIPCN 2026 · Pages 729–735*
+[https://ieeexplore.ieee.org/document/11438485](https://ieeexplore.ieee.org/document/11438485)
 
 ---
 
-## Contact
+<div align="center">
 
-- Portfolio: https://leumaslarotrebor.github.io
-- LinkedIn: https://linkedin.com/in/samuel-oral-robert-v-4226813a4/
-- Email: available on LinkedIn
+**B.E. Computer Science Engineering · Sathyabama Institute of Science and Technology · Chennai · 2026**
+
+*Open to backend, IoT, AI engineering, and international internship opportunities*
+
+</div>
