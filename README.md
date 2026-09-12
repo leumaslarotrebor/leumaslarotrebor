@@ -34,9 +34,9 @@ paths, not just their happy paths.
 
 <img src="pixel_scene_small.gif" width="100%" alt="animated pixel scene" />
 
-<sub>Chennai, India → open to Japan</sub>
+<sub>Chennai, India → open to relocation </sub>
 
-</td>
+</td> 
 </tr>
 </table>
 
